@@ -1,0 +1,7 @@
+---
+format_version: 1.0.0
+steplib_source: https://github.com/orbitekk/bitrise-steplib.git
+assets_download_base_uri: https://raw.githubusercontent.com/orbitekk/bitrise-steplib/master/steps
+download_locations:
+  - type: git
+    src: source/git
